@@ -3,7 +3,7 @@
 
 **[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] --> Verilen Dizi**
 
-**Binary Search Tree Aşamaları:**
+***Binary Search Tree Aşamaları:***
 
 - Root = 6 olsun.
 
