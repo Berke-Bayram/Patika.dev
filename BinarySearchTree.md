@@ -70,7 +70,6 @@
 ![Resim 9](https://user-images.githubusercontent.com/116020390/198657304-0c8a5230-1ef3-477f-8add-15920f273f42.jpg)
 
 
-
 - Aşama 10: Binary ağacımız tamamlanmış oldu.
 
 
