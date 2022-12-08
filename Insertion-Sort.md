@@ -26,6 +26,7 @@ Dördüncü Sorunun Çözümü:
 
 [7,3,5,8,2,9,4,15,6] -> Verilen İkinci Dizi
 
+
 İkinci Dizinin İlk 4 Adımı:
   1. Adım: 3 ile 7 sayısı yer değiştirir. [3,7,5,8,2,9,4,15,6]
   2. Adım: 7 ile 5 sayısı yer değiştirir. [3,5,7,8,2,9,4,15,6]
