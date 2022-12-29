@@ -1,0 +1,45 @@
+body {
+
+text-align: center;
+list-style-position: inside;
+background-color: aliceblue;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.p1 {
+
+font-style: italic;
+
+}
+
+.main {
+
+font-size: 50px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: royalblue;
+
+}
+
+.books {
+
+text-align: left;
+
+
+}
+
+.unordered {
+
+font-style: italic;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+.title {
+
+text-decoration: underline;
+color: midnightblue;
+
+
+}
