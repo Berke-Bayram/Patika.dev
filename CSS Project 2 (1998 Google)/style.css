@@ -1,0 +1,79 @@
+    .img {
+
+        display: block;
+        margin: 0 auto;
+
+    }
+
+    .bar {
+
+        margin-left: 50px;
+        margin-right: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align:center;
+        background-color:rgb(232, 231, 231);
+        
+        
+    }
+    
+    .bar input {
+    
+        width: 400px;
+        height: 20px;
+        
+    }
+    
+    .box1 {
+    
+        float: left;
+        margin-left: 50px;
+        text-align: center;
+        width: 27%;
+        height: 82px;
+        background-color: rgb(33, 218, 197);
+        margin-top: 2px;
+        margin-right: 2px;
+        line-height: 4px;
+        
+    }
+    
+    .box2 {
+    
+        text-align: center;
+        float: left;
+        width: 23%;
+        background-color: rgb(114, 197, 186);
+        height: 82px;
+        margin-top: 2px;
+        line-height: 4px;
+        font-size: 13px;
+        
+    }
+    
+    .box3 {
+
+        font-size: 13px;
+        text-align: center;
+        margin-right: 50px;
+        width: calc(42% + 9px);
+        background-color: rgb(110, 189, 189);
+        height: 82px;
+        margin-top: 2px;
+        margin-left: 2px;
+        line-height: 0px;
+        display: inline-block;
+
+    }
+    
+    
+    .arc {
+    
+        display: inline-block;
+    
+    }
+    
+    .button1 {
+
+    height: 21px;
+
+    }
